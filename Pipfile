@@ -11,6 +11,7 @@ flake8 = "==3.8.4"
 [packages]
 requests = "*"
 streamlit = "*"
+pandas = "==1.0.0"
 
 [requires]
 python_version = "3.7"
